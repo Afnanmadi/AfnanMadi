@@ -28,5 +28,20 @@ I enjoy analyzing data, building dashboards, and uncovering patterns that help b
 
 Python | SQL | Power BI | Tableau | Excel | Data Visualization | Marketing Analytics | Data Cleaning
 
+## Featured Projects
+
+### Customer Feedback Analysis
+E-commerce customer feedback analysis using **Python and SQL**, integrating data from CSV, JSON, and XML sources.  
+The project applies sentiment analysis and product performance evaluation to uncover actionable customer insights.
+
+### NYC Collisions Power BI Dashboard
+Interactive **Power BI dashboard** analyzing NYC motor vehicle collisions to identify accident trends, high-risk locations, vehicle involvement, and contributing factors.
+
+### Coffee Brand Review Tableau Analysis
+Interactive **Tableau dashboard** exploring global coffee brands, analyzing roast types, origins, pricing, and ratings to uncover market trends and product insights.
+
+### NYC Airbnb Analysis
+Data cleaning, exploratory analysis, and visualization of **NYC Airbnb listings using Python**, identifying patterns in pricing, availability, and customer engagement.
+
 ## Connect with me
 LinkedIn: www.linkedin.com/in/afnan-madi
