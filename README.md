@@ -1,6 +1,6 @@
 # Hi, I'm Afnan Madi 👋
 
-Data Analyst | Marketing Analytics
+Data Analyst | Power BI • SQL • Python | Business Insights & Dashboards
 
 I am a Data Analyst passionate about solving business problems through data.  
 My goal is to transform raw data into meaningful insights that help teams make better decisions.
