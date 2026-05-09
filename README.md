@@ -1,4 +1,4 @@
-# Hi, I'm Afnan Madi 👋
+# Hi, I'm Afnan Madi 
 
 Data Analyst | Power BI • SQL • Python | Business Insights & Dashboards
 
@@ -19,10 +19,10 @@ I enjoy analyzing data, building dashboards, and uncovering patterns that help b
 
 ## What I Focus On
 
-🔎 Identifying business problems through data analysis  
-📊 Building dashboards that reveal meaningful insights  
-📈 Translating complex data into clear business insights  
-🤝 Supporting teams with data-driven decision making
+*Identifying business problems through data analysis  
+*Building dashboards that reveal meaningful insights  
+*Translating complex data into clear business insights  
+*Supporting teams with data-driven decision making
 
 ## Tools & Technologies
 
