@@ -1,47 +1,33 @@
-# Hi, I'm Afnan Madi 
+# Hi, I'm Afnan Madi 👋
 
-Data Analyst | Power BI • SQL • Python | Business Insights & Dashboards
+## About Me
 
-I am a Data Analyst passionate about solving business problems through data.  
-My goal is to transform raw data into meaningful insights that help teams make better decisions.
+I'm a passionate **Data Analyst** based in Ottawa, Canada, with a strong interest in transforming raw data into meaningful insights that support business decisions. I enjoy solving problems through data analysis, building interactive dashboards, and automating reporting processes to improve efficiency.
 
-I enjoy analyzing data, building dashboards, and uncovering patterns that help businesses understand performance and identify opportunities for improvement.
+I recently completed a **Business Intelligence Analyst Diploma** at **Willis College**, where I developed hands-on experience in **Python, SQL, Power BI, Excel, and data analytics** through practical projects focused on business intelligence, marketing analytics, and data visualization.
 
-## Professional Experience
+I'm continuously expanding my skills in analytics, automation, and AI-powered workflows, and I'm currently seeking opportunities as a **Data Analyst** or **Business Intelligence Analyst**.
 
-### Data Analyst — Skyfall Advertising Agency (Ottawa, Canada)
+## 👩‍💻 Technical Skills
 
-- Analyzed marketing campaign performance across multiple digital channels to identify trends and optimization opportunities.
-- Built and maintained interactive dashboards using **Power BI, Python, and Excel**, reducing manual reporting time by up to **60%**.
-- Generated actionable insights from campaign data that helped stakeholders better understand performance and improve decision-making.
-- Designed KPI tracking dashboards that allowed teams to detect performance issues and optimize marketing strategies quickly.
-- Implemented a simple workflow process to support recurring reporting tasks and improve efficiency.
+**Languages:** Python, SQL
 
-## What I Focus On
+**Data Analysis:** Pandas, NumPy, Data Cleaning, Data Validation, Exploratory Data Analysis (EDA), KPI Analysis, Trend Analysis
 
-*Identifying business problems through data analysis  
-*Building dashboards that reveal meaningful insights  
-*Translating complex data into clear business insights  
-*Supporting teams with data-driven decision making
+**Business Intelligence & Visualization:** Power BI (DAX), Tableau, Microsoft Excel
 
-## Tools & Technologies
+**Data Processing & Automation:** ETL Concepts, Data Transformation, Reporting Automation, n8n Workflow Automation
 
-Python | SQL | Power BI | Tableau | Excel | Data Visualization | Marketing Analytics | Data Cleaning
+**Databases:** MySQL, Relational Databases, Data Modeling
 
-## Featured Projects
+**Cloud:** AWS (Foundational Knowledge)
 
-### Customer Feedback Analysis
-E-commerce customer feedback analysis using **Python and SQL**, integrating data from CSV, JSON, and XML sources.  
-The project applies sentiment analysis and product performance evaluation to uncover actionable customer insights.
+**Tools & Workflow:** Git, GitHub, Jupyter Notebook, Google Colab, VS Code
 
-### NYC Collisions Power BI Dashboard
-Interactive **Power BI dashboard** analyzing NYC motor vehicle collisions to identify accident trends, high-risk locations, vehicle involvement, and contributing factors.
+## 📫 Let's Connect
 
-### Coffee Brand Review Tableau Analysis
-Interactive **Tableau dashboard** exploring global coffee brands, analyzing roast types, origins, pricing, and ratings to uncover market trends and product insights.
+I'm always open to collaborating on exciting data projects, exploring new opportunities, or simply connecting over a coffee and talking about data.
+Feel free to connect with me on LinkedIn or explore my work here on GitHub.
 
-### NYC Airbnb Analysis
-Data cleaning, exploratory analysis, and visualization of **NYC Airbnb listings using Python**, identifying patterns in pricing, availability, and customer engagement.
-
-## Connect with me
-LinkedIn: www.linkedin.com/in/afnan-madi
+* 💼 LinkedIn:www.linkedin.com/in/afnan-madi
+* 💻 GitHub: https://github.com/Afnanmadi
