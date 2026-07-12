@@ -1,12 +1,9 @@
-# Hi, I'm Afnan Madi 👋
-
 ## About Me
+Hi! I'm **Afnan Madi**, a passionate **Data Analyst** with a strong foundation in business intelligence, data analytics, and process improvement. I enjoy transforming complex data into meaningful insights, building interactive dashboards, and solving business problems through data-driven solutions.
 
-I'm a passionate **Data Analyst** based in Ottawa, Canada, with a strong interest in transforming raw data into meaningful insights that support business decisions. I enjoy solving problems through data analysis, building interactive dashboards, and automating reporting processes to improve efficiency.
+I recently completed **a Business Intelligence Analyst** Diploma at **Willis College** in Ottawa, where I strengthened my technical skills in **Python, SQL, Power BI, Excel, and data visualization**. Through hands-on projects, I gained practical experience in data analysis, dashboard development, reporting automation, and business performance analysis.
 
-I recently completed a **Business Intelligence Analyst Diploma** at **Willis College**, where I developed hands-on experience in **Python, SQL, Power BI, Excel, and data analytics** through practical projects focused on business intelligence, marketing analytics, and data visualization.
-
-I'm continuously expanding my skills in analytics, automation, and AI-powered workflows, and I'm currently seeking opportunities as a **Data Analyst** or **Business Intelligence Analyst**.
+I'm currently open to new opportunities as **a Data Analyst** or **Business Intelligence Analyst**, where I can apply my technical skills, analytical mindset, and passion for data to help organizations make informed, data-driven decisions
 
 ## 👩‍💻 Technical Skills
 
